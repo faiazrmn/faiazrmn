@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faiazrmn
+- 👋 Hi, I’m Faiaz
 - 👀 I’m interested in Statistics and R
 - 🌱 I’m currently learning Advanced Statistics and R topics
 - 📫 How to reach me faiazrmn@gmail.com
